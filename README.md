@@ -42,6 +42,9 @@ smart-data-analytics-tool/
 
 The main objective of this project is to simplify data analysis by combining data cleaning, visualization, forecasting, and report generation in one interactive application.
 
+## Live Link
+https://smart-data-analytics-tool-nuhntayadfwitepmtw37jt.streamlit.app/
+
 ## 👨‍💻 Developer
 
 **Yuvraj Singh Rathod**
